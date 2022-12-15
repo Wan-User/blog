@@ -1,5 +1,5 @@
 #wrap{ 
-    background: url('../img/background.png') no-repeat;
+    background: url('background.png') no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
